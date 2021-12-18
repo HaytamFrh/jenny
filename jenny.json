@@ -23,12 +23,12 @@
 	"unity_banner": "Android_Banner",
 	"unity_interstitial": "Android_Interstitial",
 
-	"APPLOVIN_BANNER_ID": "ae44996e2b723dcf",
-	"APPLOVIN_INTERSTITIAL_ID": "2838649e0b560a68",
+	"APPLOVIN_BANNER_ID": "c7e6e58f6f4050f7",
+	"APPLOVIN_INTERSTITIAL_ID": "1eb78dfa3fa2aee1",
 
 	"MO_PUB_BANNER_ID": "b195f8dd8ded45fe847ad89ed1d016da",
 	"MO_PUB_INTERSTITIAL_ID": "24534e1901884e398f1253216226017e",
-	"whichAds": 3,
+	"whichAds": 2,
 
 	"isLastPageShow": false,
 
